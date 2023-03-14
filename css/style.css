@@ -19,4 +19,8 @@
     background-color: #FF8C10;
 }
 
+img{
+    object-fit: cover;
+    width: 100%;  
+}
 
