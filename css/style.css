@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.yellow{
+    color: yellow;
+}
+
+.red{
+    color: red;
+}
+
+.big_text{
+    font-size: 40px;
+    text-align: center;
+    background-color: #FF8C10;
+}
+
+
